@@ -1,4 +1,4 @@
 # Portofolio-Website
-#hier in laat ik zien wat mijn qualificaties zijn
+# Hier in laat ik zien wat mijn qualificaties zijn
 
  
